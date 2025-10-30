@@ -2,7 +2,7 @@
 This is a Privacy Policy
 
 PRIVACY POLICY
-Last updated October 23, 2025
+Last updated October 29, 2025
 
 
 
@@ -123,7 +123,7 @@ The categories of third parties we may share personal information with are as fo
 - Data Storage Service Providers: Supabase (for database and user authentication)
 - Workflow Automation Tools: N8N (for processing cryptocurrency price alerts)
 - User Account Registration & Authentication Services: Supabase Auth
-- Website Hosting Service Providers: [Your hosting provider name]
+- Website Hosting Service Providers: Hostinger
 - Communication & Collaboration Tools: Firebase Cloud Messaging (FCM)
 
 For more information about how these third parties handle data, please review their privacy policies:
@@ -353,4 +353,89 @@ We may update this Privacy Notice from time to time. The updated version will be
 If you have questions or comments about this notice, you may email us at cryptoalertifyapp@gmail.com.
 
 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please email us at cryptoalertifyapp@gmail.com.
+
+Account Deletion
+
+You have the right to request deletion of your account and all associated personal information. 
+
+Depending on whether you are a logged-in user or a former user of Crypto Alertify, you can request account deletion through the following methods:
+
+For Logged-In Users:
+- Open the Crypto Alertify mobile app
+- Navigate to Profile → Delete Account
+- Fill in the optional feedback form explaining why you want to delete your account
+- Click "Save" to submit your deletion request
+- Your account will be immediately deactivated
+- All your personal data will be permanently deleted within 30 days
+
+For Users Without App Access or Those Who Uninstalled the App:
+- Visit our account deletion request page at: cryptoalertify.com/deleteAccount
+- OR email us at: cryptoalertifyapp@gmail.com with the subject line "Account Deletion Request"
+- Include your registered email address in your request
+- We will process your account deletion request within 30 days of receiving it, including verification of your identity.
+- Upon verification, your account will be immediately deactivated
+- All your personal data will be permanently deleted within 30 days
+
+What Happens When You Request Deletion:
+
+1. Immediate Actions:
+   - Your account will be immediately deactivated
+   - You will no longer be able to access the Crypto Alertify app or your account
+   - All active login sessions will be terminated
+   - Your device will be logged out of the app
+
+2. Verification Process (within 30 days):
+   - We will send you a confirmation email to verify your deletion request
+   - This ensures that only authorized account owners can request deletion
+
+3. Data Deletion (within 30 days):
+   - All data associated with your account will be permanently deleted, including:
+     - Account credentials (email, username, password hash)
+     - All cryptocurrency price alerts and preferences
+     - Saved notification settings and device tokens
+     - User profile information
+     - Personal preferences and settings
+   - You will receive a final confirmation email once deletion is complete
+
+4. Data Retention Exceptions:
+   - Some information may be retained longer than 30 days only in the following circumstances:
+     - As required by applicable law or legal obligations
+     - For fraud prevention and security purposes
+     - For backup and archive purposes (kept secure and isolated)
+     - In anonymized or aggregated form for analytics purposes
+   - We will retain deletion request records for audit and compliance purposes as required by law
+
+Important Information About Account Deletion:
+
+- Account deletion is permanent and cannot be undone
+- Once deleted, you will not be able to recover any data associated with your account
+- If you have an active subscription, canceling or deleting your account will terminate your access to premium features
+- Any outstanding issues or disputes related to your account must be resolved before deletion
+
+Time to Deletion:
+
+- We process deletion requests within 30 days of verification
+- Most requests are processed within 7-14 days
+- You will receive regular email updates about the status of your deletion request
+
+Contacting Us:
+
+If you have questions about the account deletion process or need assistance, please contact us at:
+Email: cryptoalertifyapp@gmail.com
+
+Your Privacy Rights:
+
+Under data protection laws such as GDPR, CCPA, and similar regulations, you have the right to:
+- Request confirmation of whether we process your data
+- Access your personal information
+- Correct inaccurate data
+- Request deletion of your data (as described above)
+- Withdraw consent to processing
+- Restrict processing of your data
+- Obtain a portable copy of your data
+
+For residents of the European Economic Area (EEA), United Kingdom (UK), Switzerland, or Canada:
+You can exercise these rights by submitting a data subject access request or by contacting us directly at cryptoalertifyapp@gmail.com.
+
+If you believe your privacy rights have been violated, you may contact your local data protection authority. We also welcome your questions at: cryptoalertifyapp@gmail.com
+
