@@ -54,7 +54,7 @@ TABLE OF CONTENTS
 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-
+---
 1. WHAT INFORMATION DO WE COLLECT?
 Personal information you disclose to us
 In Short: We collect personal information that you provide to us.
@@ -119,12 +119,16 @@ In Short: We may share information in specific situations described in this sect
 Vendors, Consultants, and Other Third-Party Service Providers. We may share your data with third-party vendors, service providers, contractors, or agents ("third parties") who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct.
 
 The categories of third parties we may share personal information with are as follows:
-Cloud Computing Services
-Data Storage Service Providers
-Testing Tools
-User Account Registration & Authentication Services
-Website Hosting Service Providers
-Communication & Collaboration Tools
+- Cloud Computing Services: Google Firebase (for push notifications and analytics)
+- Data Storage Service Providers: Supabase (for database and user authentication)
+- Workflow Automation Tools: N8N (for processing cryptocurrency price alerts)
+- User Account Registration & Authentication Services: Supabase Auth
+- Website Hosting Service Providers: [Your hosting provider name]
+- Communication & Collaboration Tools: Firebase Cloud Messaging (FCM)
+
+For more information about how these third parties handle data, please review their privacy policies:
+- Google Firebase: https://firebase.google.com/support/privacy
+- Supabase: https://supabase.com/privacy
 
 We also may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
@@ -134,11 +138,22 @@ In Short: We may use cookies and other tracking technologies to collect and stor
 
 We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services and your account, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
 
-We also permit third parties and service providers to use online tracking technologies on our Services for analytics and advertising, including to help manage and display advertisements, to tailor advertisements to your interests, or to send abandoned shopping cart reminders (depending on your communication preferences). The third parties and service providers use their technology to provide advertising about products and services tailored to your interests which may appear either on our Services or on other websites.
+Technologies We Use:
+- Firebase Cloud Messaging (FCM): We use Firebase for push notifications. Firebase may collect device identifiers, IP addresses, and app usage data. Learn more at: https://policies.google.com/privacy
+- Supabase Authentication: We use Supabase for user authentication and database services, which uses session cookies to maintain your login state
+- Analytics and Performance Monitoring: We may collect device information, crash reports, and app performance data to improve our Services
 
-To the extent these online tracking technologies are deemed to be a "sale"/"sharing" (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can opt out of these online tracking technologies by submitting a request as described below under section "DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?"
+Third-Party Services:
+Our app integrates with the following third-party services that may collect data:
+- Google Firebase (Push Notifications and Analytics)
+- Supabase (Database and Authentication)
+- N8N (Workflow Automation for alert processing)
 
-Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+You can control some of these tracking technologies:
+- Push Notifications: You can disable push notifications in your device settings
+- Analytics: You can opt out through your device's advertising settings (Android Advertising ID or iOS IDFA)
+
+For more information on how Google uses data, visit: https://policies.google.com/technologies/partner-sites
 
 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 In Short: We may transfer, store, and process your information in countries other than your own.
