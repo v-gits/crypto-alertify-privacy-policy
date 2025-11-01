@@ -73,6 +73,8 @@ Sensitive Information. We do not process sensitive information.
 Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's notifications, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 Mobile Device Data. We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of our application(s) you accessed.
+Cryptocurrency Data:
+When you use our alert features, we collect your selected cryptocurrency IDs and target price points. This information is stored in your account to set up your price alerts. We do not share your account information with third parties. However, to retrieve current cryptocurrency prices, we send only the cryptocurrency IDs (not your account information) to CoinGecko's public API. CoinGecko may collect technical data (such as your IP address) as part of standard API operations, but does not receive your name, email, or other personal information from us.
 Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
 
@@ -125,10 +127,12 @@ The categories of third parties we may share personal information with are as fo
 - User Account Registration & Authentication Services: Supabase Auth
 - Website Hosting Service Providers: Hostinger
 - Communication & Collaboration Tools: Firebase Cloud Messaging (FCM)
+- Data & API Services: CoinGecko (for cryptocurrency price data - no user personal data is shared)
 
 For more information about how these third parties handle data, please review their privacy policies:
 - Google Firebase: https://firebase.google.com/support/privacy
 - Supabase: https://supabase.com/privacy
+- CoinGecko: https://www.coingecko.com/en/privacy
 
 We also may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
@@ -148,6 +152,10 @@ Our app integrates with the following third-party services that may collect data
 - Google Firebase (Push Notifications and Analytics)
 - Supabase (Database and Authentication)
 - N8N (Workflow Automation for alert processing)
+- CoinGecko (Cryptocurrency price data retrieval)
+
+CoinGecko Integration:
+We use CoinGecko's free API to fetch real-time cryptocurrency price data. When you set price alerts or request price information for specific cryptocurrencies, we send the cryptocurrency IDs (not your personal information) to CoinGecko's API to retrieve current market prices. CoinGecko does not collect or store any of your personal data through these requests. Only cryptocurrency symbols/IDs and technical data (such as IP addresses for API requests) are transmitted. For more information about CoinGecko's data practices, visit: https://www.coingecko.com/en/privacy
 
 You can control some of these tracking technologies:
 - Push Notifications: You can disable push notifications in your device settings
@@ -378,17 +386,17 @@ For Users Without App Access or Those Who Uninstalled the App:
 
 What Happens When You Request Deletion:
 
-1. Immediate Actions:
+15.1. Immediate Actions:
    - Your account will be immediately deactivated
    - You will no longer be able to access the Crypto Alertify app or your account
    - All active login sessions will be terminated
    - Your device will be logged out of the app
 
-2. Verification Process (within 30 days):
+15.2. Verification Process (within 30 days):
    - We will send you a confirmation email to verify your deletion request
    - This ensures that only authorized account owners can request deletion
 
-3. Data Deletion (within 30 days):
+15.3. Data Deletion (within 30 days):
    - All data associated with your account will be permanently deleted, including:
      - Account credentials (email, username, password hash)
      - All cryptocurrency price alerts and preferences
@@ -397,7 +405,7 @@ What Happens When You Request Deletion:
      - Personal preferences and settings
    - You will receive a final confirmation email once deletion is complete
 
-4. Data Retention Exceptions:
+15.4. Data Retention Exceptions:
    - Some information may be retained longer than 30 days only in the following circumstances:
      - As required by applicable law or legal obligations
      - For fraud prevention and security purposes
