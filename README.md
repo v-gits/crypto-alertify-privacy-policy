@@ -2,7 +2,7 @@
 This is a Privacy Policy
 
 PRIVACY POLICY
-Last updated October 29, 2025
+Last updated November 02, 2025
 
 
 
@@ -73,6 +73,8 @@ Sensitive Information. We do not process sensitive information.
 Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's notifications, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 Mobile Device Data. We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of our application(s) you accessed.
+Advertising ID:
+Our mobile application may access and collect your device’s Advertising ID for analytics purposes. The Advertising ID is a resettable identifier used by Google Play services for analytics and, in future versions, may be used for personalized advertising. You can control, reset, or limit its use at any time from your device’s privacy settings. We do not use this identifier for ad targeting unless explicitly stated and with your consent.
 Cryptocurrency Data:
 When you use our alert features, we collect your selected cryptocurrency IDs and target price points. This information is stored in your account to set up your price alerts. We do not share your account information with third parties. However, to retrieve current cryptocurrency prices, we send only the cryptocurrency IDs (not your account information) to CoinGecko's public API. CoinGecko may collect technical data (such as your IP address) as part of standard API operations, but does not receive your name, email, or other personal information from us.
 Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
