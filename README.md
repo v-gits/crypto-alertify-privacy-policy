@@ -1,4 +1,4 @@
-# crypto-alertify-privacy-policy
+# Crypto Alertify Privacy Policy
 This is a Privacy Policy
 
 PRIVACY POLICY
