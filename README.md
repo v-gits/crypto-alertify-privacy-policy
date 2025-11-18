@@ -1,4 +1,3 @@
-# Crypto Alertify Privacy Policy
 This is a Privacy Policy
 
 PRIVACY POLICY
