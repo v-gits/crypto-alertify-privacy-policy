@@ -1,4 +1,4 @@
-This is a Privacy Policy
+This is a Crypto Alertify Privacy Policy
 
 PRIVACY POLICY
 Last updated November 02, 2025
